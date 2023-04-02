@@ -3,4 +3,5 @@
 ## Technology used:
 - NextJS
 - Stripe (payment processor)
+- React
 
