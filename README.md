@@ -4,4 +4,5 @@
 - NextJS
 - Stripe (payment processor)
 - React
+- Sanity (Content Management System)
 
