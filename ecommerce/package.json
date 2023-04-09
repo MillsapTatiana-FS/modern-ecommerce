@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@stripe/stripe-js": "^1.52.0",
     "canvas-confetti": "^1.6.0",
     "next": "13.2.4",
     "next-sanity-image": "^6.0.0",
