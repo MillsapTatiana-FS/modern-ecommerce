@@ -30,4 +30,4 @@ const FooterBanner = ({ footerBanner: { discount, largeText1, largeText2, saleTi
   )
 }
 
-export default FooterBanner
+export default FooterBanner;

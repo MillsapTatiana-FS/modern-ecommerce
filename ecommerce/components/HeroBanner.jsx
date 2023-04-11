@@ -26,4 +26,4 @@ const HeroBanner = ({ heroBanner }) => {
   )
 }
 
-export default HeroBanner
+export default HeroBanner;
